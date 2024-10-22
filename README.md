@@ -25,7 +25,7 @@ I have 6+ years of experience specializing in **JavaScript**, focusing on **Reac
 ---
 
 ### 💼 **Experience**
-- **Copper** | Oct 2021 – Present  
+- **Jobsity** | Oct 2021 – Present  
 - **Gyssa** | Oct 2020 – Oct 2021  
 - **Bolsa de Valores** | Nov 2018 – Oct 2020  
 
