@@ -3,7 +3,7 @@
 **Senior Software Engineer**  
 Guatemala | [Email](mailto:contact.adrian.burgos@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrian-burgos-4b68001a6/)
 
-I have 6+ years of experience specializing in **JavaScript**, focusing on **React** and **Next.js** to build scalable, high-performance web applications. Passionate about delivering efficient, user-friendly solutions.
+I have 6+ years of experience specializing in **TypeScript**, focusing on **React** and **Next.js** to build scalable, high-performance web applications. Passionate about delivering efficient, user-friendly solutions.
 
 ---
 
