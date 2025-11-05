@@ -25,7 +25,8 @@ I have 6+ years of experience specializing in **TypeScript**, focusing on **Reac
 ---
 
 ### 💼 **Experience**
-- **Jobsity** | Oct 2021 – Present  
+- **[Signpost](https://signpost.com)** | Nov 2024 – Present  
+- **[Copper](https://copper.com)** | Oct 2021 – Oct 2024  
 - **Gyssa** | Oct 2020 – Oct 2021  
 - **Bolsa de Valores** | Nov 2018 – Oct 2020  
 
